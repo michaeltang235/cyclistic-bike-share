@@ -1,1 +1,1 @@
-This folder contains scripts written in Python to make plots
+This folder contains plots made by scripts (stored under code_py/) written in Python
