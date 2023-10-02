@@ -1,1 +1,1 @@
-This folder contains code written in Python
+This folder contains scripts written in Python
