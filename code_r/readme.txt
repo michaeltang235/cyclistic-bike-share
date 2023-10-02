@@ -1,1 +1,1 @@
-This folder contains code written in R
+This folder contains scripts written in R
