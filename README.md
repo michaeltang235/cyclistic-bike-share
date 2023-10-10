@@ -8,7 +8,7 @@ in Python, R, and SQL (BigQuery), and they can be found under the corresponding 
 and 'plot' to denote the relevant stages of data-driven decision making introduced in the Google Data Analytics Certificate course. Also, visualizations depicting insights derived from analysis of bike share data are stored 
 under plots_py and plots_r, depending on the programming languages used. In addition, dashboards were made to showcase differences in ridership behavior between rider types on Tableau Public, with their links provided below,
 
-Bike Share User Map, where filters are available to extract information required in different settings (e.g. time, neighbohoods, etc.)
+Bike Share Usage Map, where filters are available to extract information required in different settings (e.g. start time by month/year, weekdays, hours, and neighbohoods)
 https://public.tableau.com/views/CyclisticBikeShareCaseStudyII/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
 
 Bike Share Usage Based on Ridership Types, where a summary of ridership behavior, specificially mean ride length (min), over different timescales, along with
